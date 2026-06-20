@@ -1,0 +1,2 @@
+# desk-lamp-dimmer
+this a desk lamp dimmer, utilizes a 555 timer for PWM and an potential meter to vary the duty cycle, a MOSFET to amplify the signal
